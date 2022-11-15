@@ -1,6 +1,6 @@
 # minesweeper-simple
 
-simple terminal 4x4 minesweeper game made in python \
+simple terminal 4x4 minesweeper game made in python bc I was bored and had covid \
 just run minesweeper.py and the game works like this 
 
 ```
