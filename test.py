@@ -1,4 +1,4 @@
-#place to test shit out
+#place to test stuff out
 from random import randint
 
 for i in range(10):
@@ -6,7 +6,7 @@ for i in range(10):
     value = randint(0,10)
     print(str(value))
 
-#fucking random bullshit i wasted time on
+#rando stuff
 # x = randint(0,15)
 
 # notInList = True
