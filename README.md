@@ -24,3 +24,5 @@ Put an F after both to flag the space
 
 test.py holds random lines I was testing out
 markdown file holds format stuff I was testing
+
+this was written before chatgpt when writing code actually meant something
